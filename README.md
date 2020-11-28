@@ -10,9 +10,9 @@
 + Есть конфигурация проекта через Docker;
 ## Как запустить
 ```
-git https://github.com/mrniktarasov/hacker_news_interface
+git clone https://github.com/mrniktarasov/hacker_news_interface
 cd phoneComponent
-npm build
+npm install 
 npm start
 ```
 И перейти на  http://localhost:3000/
