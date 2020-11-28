@@ -11,7 +11,7 @@
 ## Как запустить
 ```
 git clone https://github.com/mrniktarasov/hacker_news_interface
-cd phoneComponent
+cd hacker_news_interface
 npm install 
 npm start
 ```
